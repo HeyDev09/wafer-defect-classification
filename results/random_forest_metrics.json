@@ -1,0 +1,17 @@
+{
+  "model": "random_forest",
+  "accuracy": 0.971,
+  "macro_f1": 0.8625,
+  "macro_f1_defect_classes_only": 0.847,
+  "per_class_f1": {
+    "Center": 0.909,
+    "Donut": 0.866,
+    "Edge-Loc": 0.782,
+    "Edge-Ring": 0.983,
+    "Loc": 0.721,
+    "Near-full": 0.968,
+    "Random": 0.911,
+    "Scratch": 0.636,
+    "none": 0.986
+  }
+}

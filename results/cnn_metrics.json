@@ -1,0 +1,17 @@
+{
+  "model": "cnn",
+  "accuracy": 0.9636,
+  "macro_f1": 0.8213,
+  "macro_f1_defect_classes_only": 0.8009,
+  "per_class_f1": {
+    "Center": 0.882,
+    "Donut": 0.845,
+    "Edge-Loc": 0.737,
+    "Edge-Ring": 0.961,
+    "Loc": 0.67,
+    "Near-full": 0.921,
+    "Random": 0.862,
+    "Scratch": 0.529,
+    "none": 0.985
+  }
+}

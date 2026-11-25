@@ -1,0 +1,15 @@
+# Dataset files are large: download them with the steps in README.md
+data/
+*.pkl
+*.npz
+*.npy
+
+# Trained models (re-create with the training scripts)
+models/*.joblib
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store

@@ -1,0 +1,8 @@
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+scikit-image>=0.24
+matplotlib>=3.8
+torch>=2.2
+joblib>=1.4
+kagglehub>=0.3
